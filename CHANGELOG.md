@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.0.2 (2026-11)
+- Todos los precios de terceros van sin impuesto (IVA, IGV o ISV), porque para una empresa normalmente es acreditable. Se revierte el cambio de la 2.0.1 y se quita el IVA de 19% a los portales de Colombia (de $120.000 / $210.000 / $260.000 a $100.840 / $176.471 / $218.487). El total de México, nivel Profesional, vuelve a $33,385.
+
 ## 2.0.1 (2026-11)
 - Los precios de terceros que estaban sin impuesto ahora lo incluyen, igual que Colombia: portales de México (IVA 16%), Chile (IVA 19%), Perú (IGV 18%) y Honduras (ISV 15%), y examen médico de Perú. El total de México, nivel Profesional, pasa de $33,385 a $33,859.
 
